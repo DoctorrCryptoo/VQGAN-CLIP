@@ -1,5 +1,5 @@
 #!/bin/bash
-# Example "Zoom" movie generation
+# Example "Zoom" movie generation or sth else
 # e.g. ./zoom.sh "A painting of zooming in to a surreal, alien world" Zoom.png 180
 
 TEXT="$1"
